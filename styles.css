@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: green;
+    padding: 20px;
+    text-align: center;
+}
+
+.site-title {
+    color: white;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.menu li a {
+    color: blue;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+.trending-quizzes {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-widget {
+    margin-bottom: 20px;
+}
+
+.social-links {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.social-links li a {
+    color: white;
+    text-decoration: none;
+  }
+  
